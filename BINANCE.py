@@ -7,8 +7,8 @@ import numpy as np
 
 
 
-api_key = "gjNFGc1OwP5s8LOaZR"
-secret = "h9IwB4c07TOh8dT9hMB1nDhOSJH3ntGuvvtk"
+api_key = "RDevM2wLWKaeWHvFL7"
+secret = "eDs4JKBKwh2B05PA3YglLasKPPXdPlHJdTCA"
 
 
 # binance 객체 생성
